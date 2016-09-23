@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Andriod</string>
+    <string name="type_password_label">Enter password</string>
+    <string name="defaultPassword">Password</string>
+</resources>
